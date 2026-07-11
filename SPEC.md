@@ -1,6 +1,8 @@
-# The Semantic Life Versioning (LifeVer) Standard v1.4
-**Last Updated**: 2025-06-06
+# The Semantic Life Versioning (LifeVer) Standard v1.4.1
+**Last Updated**: 2026-07-11
 **Authors**: A Master Software Architect and a forward-thinking user.
+
+See [CHANGELOG.md](./CHANGELOG.md) for the standard's own version history.
 ## Preamble
 The Semantic Life Versioning (LifeVer) standard is a comprehensive framework for tracking personal accomplishments, significant events, and personal growth over time. It provides a structured, consistent, and reviewable format for logging the "changes" that constitute a life. Its purpose is to foster reflection, provide perspective, and create a meaningful, personal history of progress and resilience.
 ## 1. Versioning Scheme
