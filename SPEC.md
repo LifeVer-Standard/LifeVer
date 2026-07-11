@@ -10,6 +10,9 @@ LifeVer uses a three-part versioning number: `EPOCH.MILESTONE.STEP`.
 -   **`EPOCH`**: Represents a fundamental era or chapter of your life. It increments only when a life event occurs that fundamentally alters your core identity, responsibilities, or daily reality (e.g., marriage, parenthood, career change, moving to a new country).  
 -   **`MILESTONE`**: Represents the achievement of a significant goal or the completion of a major project. It is a noteworthy "feature release" for your life that adds new capabilities or experiences (e.g., running a marathon, completing a major certification, finishing a large home renovation).  
 -   **`STEP`**: Represents a single, meaningful accomplishment or a collection of smaller accomplishments bundled into one "release." It is the incremental progress you make on a daily or weekly basis (e.g., reading a book, fixing an appliance, successfully completing a work sprint).
+
+**The MILESTONE Test**: An accomplishment qualifies as a MILESTONE only when both are true: (1) it took sustained, deliberate effort spread across multiple weeks or months toward one named goal, and (2) it leaves something lasting behind — a credential, a finished project, a permanently changed environment, a new fact about you — not just the memory of having done it. If only one is true, log it as a STEP. This test applies to `Added`, `Improved`, `Fixed`, and `Removed` entries. For `Changed` entries — things that happened to you rather than through your own effort — judge the tier by severity and impact instead; see Section 6.
+
 **Rule**: When a higher-level version number is incremented, all lower-level numbers reset to 0. For example, after `42.1.3` comes the milestone `42.2.0`. After the epoch change `42.12.5` comes `43.0.0`.
 ## 2. The Changelog File & Workflow
 The official log is maintained in a single Markdown file named `changelog.md`. New entries are always added to the top of the file.
