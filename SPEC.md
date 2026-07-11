@@ -60,6 +60,7 @@ You are encouraged to add new Scopes as needed. A good guideline is the **"Rule 
 -   **Curation over Raw Data**: Log the *accomplishment*, not every single task. Summarize and curate your entries to reflect the meaningful outcome.  
 -   **Honesty and Resilience**: Use the `Changed` type to log difficult events truthfully. Use the other types to log your resilient responses to those events. A `Changed` entry is not limited to STEP tier — its severity, not its type, determines whether it warrants a MILESTONE or even an EPOCH release. A layoff or a serious diagnosis can be exactly as version-significant as an achievement.
 -   **Immutable History, Correctable Record**: The events of your past cannot be changed — once something has happened, it will always have happened. The changelog, however, is your *record* of that history, and a record can be imperfect. Correcting a past entry, such as retagging its Scope for consistency (see Section 5), does not rewrite what happened; it only makes the log more faithful to it.
+-   **Private by Default, Curated by Choice**: The changelog is a private record, not a public one. If you want to share your progress — a status report for work, a summary for family — build it as a separate, curated derivative of specific entries. Never treat the raw log itself as the shareable artifact.
 ## 7. Full Example
 #### 1. State of `changelog.md` before weekly review:
 ```markdown  
