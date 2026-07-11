@@ -49,11 +49,12 @@ Scopes represent the various domains of your life. This is an extensible list, a
 -   `[Spiritual]`: Connection to faith, purpose, and meaning.  
 -   `[Financial]`: Management of personal finances.
 #### Extensibility:
-You are encouraged to add new Scopes as needed. A good guideline is the **"Rule of Three"**: If you have three or more entries that feel like they belong to a new, distinct category, create a new Scope for them.
+You are encouraged to add new Scopes as needed. A good guideline is the **"Rule of Three"**: If you have three or more entries that feel like they belong to a new, distinct category, create a new Scope for them. If earlier entries would now fit better under the new Scope, you may retag them for consistency — see Section 6 for why this doesn't compromise the integrity of the log.
 ## 6. Guiding Principles
 -   **Separation of Concerns**: The LifeVer Changelog is for logging the past. Planning for the future should be done in a separate "Issue Tracker" (i.e., any to-do list application or notebook).  
 -   **Curation over Raw Data**: Log the *accomplishment*, not every single task. Summarize and curate your entries to reflect the meaningful outcome.  
 -   **Honesty and Resilience**: Use the `Changed` type to log difficult events truthfully. Use the other types to log your resilient responses to those events.
+-   **Immutable History, Correctable Record**: The events of your past cannot be changed — once something has happened, it will always have happened. The changelog, however, is your *record* of that history, and a record can be imperfect. Correcting a past entry, such as retagging its Scope for consistency (see Section 5), does not rewrite what happened; it only makes the log more faithful to it.
 ## 7. Full Example
 #### 1. State of `changelog.md` before weekly review:
 ```markdown  
