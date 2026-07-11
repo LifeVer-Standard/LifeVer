@@ -1,4 +1,4 @@
-# The Semantic Life Versioning (LifeVer) Standard v1.4.1
+# The Semantic Life Versioning (LifeVer) Standard v1.5.0
 **Last Updated**: 2026-07-11
 **Authors**: A Master Software Architect and a forward-thinking user.
 
