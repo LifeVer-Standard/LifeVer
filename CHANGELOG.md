@@ -4,6 +4,15 @@ All notable changes to the LifeVer standard itself are documented here, using pl
 
 > **Note on 1.0–1.4:** These entries are reconstructed from the original design discussion that produced the standard, since no versioned drafts exist from that period — the spec was written up as a single "v1.4" document at the end of that conversation. From 1.4.1 onward, entries reflect actual merged changes.
 
+## [1.5.0] - 2026-07-11
+
+### Added
+- **The MILESTONE Test** (Section 1): a two-part rule for the MILESTONE-vs-STEP boundary — sustained effort across multiple weeks/months *and* a lasting result, both required. Applies to `Added`/`Improved`/`Fixed`/`Removed`; `Changed` entries are tiered by severity instead (see below).
+- **Private by Default, Curated by Choice** guiding principle (Section 6): the raw log is private by default, and sharing happens through separate curated derivatives, not by exposing the log itself.
+
+### Changed
+- Extended the **Honesty and Resilience** principle (Section 6): a `Changed` entry's tier is decided by severity and impact, not capped at STEP — a layoff or serious diagnosis can be exactly as version-significant as an achievement.
+
 ## [1.4.1] - 2026-07-11
 
 ### Changed
